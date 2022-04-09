@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StudentApi</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="save">Сохранить</string>
+    <string name="email">E-mail</string>
+    <string name="firstname">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="group">Группа</string>
+    <string name="register_title">Регистрация</string>
+    <string name="login_title">Вход в приложение</string>
+    <string name="email_not_valid">Email введен некорректно</string>
+    <string name="edit_text_valid">Это поле не может быть пустым</string>
+    <string name="email_duplicate">Пользователь с таким email уже существует</string>
+    <string name="register_success">Пользователь успешно создан</string>
+    <string name="student_info_title">Карточка студента</string>
+    <string name="check">Отметиться на паре</string>
+    <string name="see_checks">Посмотреть посещения</string>
+    <string name="date">Дата регистрации</string>
+    <string name="error">Произошла непредвиденная ошибка</string>
+    <string name="attendance_success">Ты отметился на паре</string>
+    <string name="update_student_info_success">Данные студента обновлены</string>
+</resources>
